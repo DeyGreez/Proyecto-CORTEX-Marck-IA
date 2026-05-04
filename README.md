@@ -123,6 +123,11 @@ cuadro:
 ![image](https://github.com/user-attachments/assets/715b8177-2016-4d00-b812-4b516f329ba0)
 
 
+miro:
+
+<img width="1920" height="1032" alt="Captura de pantalla 2026-04-09 103944" src="https://github.com/user-attachments/assets/cb82fb0e-fd50-4be7-845d-049a321041dd" />
+
+
 ## Semana 13 - Árbol de Decisión (Decision Tree)
 
 ### Algoritmo Maestro de Razonamiento Deductivo - Mark-AI
@@ -145,7 +150,5 @@ cuadro:
       - Conceptos básicos → Responder desde Memoria Semántica (LTM).  
       - Lentes o productos → Consultar Catálogo de Productos.  
       - Protocolos → Consultar sección de Guías Clínicas.
-miro:
 
-<img width="1920" height="1032" alt="Captura de pantalla 2026-04-09 103944" src="https://github.com/user-attachments/assets/cb82fb0e-fd50-4be7-845d-049a321041dd" />
 
