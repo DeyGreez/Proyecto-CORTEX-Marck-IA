@@ -122,6 +122,29 @@ cuadro:
 
 ![image](https://github.com/user-attachments/assets/715b8177-2016-4d00-b812-4b516f329ba0)
 
+
+## Semana 13 - Árbol de Decisión (Decision Tree)
+
+### Algoritmo Maestro de Razonamiento Deductivo - Mark-AI
+
+**Nodo Raíz:**  
+¿El usuario realiza una consulta relacionada con salud visual / optometría?
+
+- **NO** → Responder educadamente y redirigir al tema optométrico o finalizar.
+- **SÍ** → Continuar al siguiente nodo.
+
+**Nivel 1 - Tipo de Consulta:**
+- ¿La consulta requiere evaluación clínica / diagnóstico?  
+  - **SÍ (Evaluación clínica)**  
+    → ¿Tengo suficiente información del historial reciente y datos del paciente?  
+      - **SÍ** → Aplicar reglas clínicas + cruzar con LTM → Generar respuesta preliminar + recomendaciones.  
+      - **NO** → Preguntar datos faltantes (síntomas específicos, graduación anterior, enfermedades sistémicas, medicamentos, etc.).
+
+  - **NO (Información general)**  
+    → ¿La pregunta es sobre conceptos básicos, lentes/productos o protocolos?  
+      - Conceptos básicos → Responder desde Memoria Semántica (LTM).  
+      - Lentes o productos → Consultar Catálogo de Productos.  
+      - Protocolos → Consultar sección de Guías Clínicas.
 miro:
 
 <img width="1920" height="1032" alt="Captura de pantalla 2026-04-09 103944" src="https://github.com/user-attachments/assets/cb82fb0e-fd50-4be7-845d-049a321041dd" />
