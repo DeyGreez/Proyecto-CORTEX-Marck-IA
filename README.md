@@ -1,4 +1,4 @@
-<img width="1168" height="784" alt="imagen" src="https://github.com/user-attachments/assets/f55d80ad-09ae-4d66-93d2-e421f36f0080" /># Proyecto-CORTEX-Marck-AI
+# Proyecto-CORTEX-Marck-AI
 # Mision: Asistente AI diseñado para la ayuda de medico optométricos 
 # Integrantes: Juan David Leal Carmona, Erick Fabian Cardenas Bello
 # 1.Perfil del Agente
