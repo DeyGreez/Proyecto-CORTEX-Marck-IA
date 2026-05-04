@@ -150,6 +150,10 @@ miro:
       - Conceptos básicos → Responder desde Memoria Semántica (LTM).  
       - Lentes o productos → Consultar Catálogo de Productos.  
       - Protocolos → Consultar sección de Guías Clínicas.
+   
+
+https://assets.grok.com/users/56f5a38d-e688-4de3-b9ed-01cc0ad2f299/generated/e75d0759-ef23-4e9c-a868-ac6cd13ca192/image.jpg
+
 
 ## Semana 14
 
@@ -179,6 +183,10 @@ Podría llevar a diagnósticos prematuros o recomendaciones sesgadas (ej. asumir
 
 Este protocolo fuerza al bot a utilizar un razonamiento más lento y analítico (Sistema 2), aumentando la seguridad clínica.
 
+
+https://assets.grok.com/users/56f5a38d-e688-4de3-b9ed-01cc0ad2f299/generated/d2aee4ff-fb54-40e3-958d-a719308fe7fe/image.jpg
+
+
 ## Semana 15 - Prueba Lógica y Debugging (Dry Run)
 
 ### Caso de Prueba Real:
@@ -200,3 +208,5 @@ No se encontraron ramas sin salida ni callejones lógicos.
 El protocolo anti-sesgo funcionó correctamente al obligar al bot a considerar múltiples posibilidades.
 
 **Versión Final:** Árbol de Decisión V2 aprobado.
+
+https://assets.grok.com/users/56f5a38d-e688-4de3-b9ed-01cc0ad2f299/generated/46f6be02-5dc0-48b4-bc43-61d0357f4e76/image.jpg
