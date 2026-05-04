@@ -1,4 +1,4 @@
-# Proyecto-CORTEX-Marck-AI
+<img width="1168" height="784" alt="imagen" src="https://github.com/user-attachments/assets/f55d80ad-09ae-4d66-93d2-e421f36f0080" /># Proyecto-CORTEX-Marck-AI
 # Mision: Asistente AI diseñado para la ayuda de medico optométricos 
 # Integrantes: Juan David Leal Carmona, Erick Fabian Cardenas Bello
 # 1.Perfil del Agente
@@ -151,8 +151,8 @@ miro:
       - Lentes o productos → Consultar Catálogo de Productos.  
       - Protocolos → Consultar sección de Guías Clínicas.
    
+<img width="1168" height="784" alt="imagen" src="https://github.com/user-attachments/assets/d547420b-6567-4f27-a694-1f0d3f21b7f5" />
 
-https://assets.grok.com/users/56f5a38d-e688-4de3-b9ed-01cc0ad2f299/generated/e75d0759-ef23-4e9c-a868-ac6cd13ca192/image.jpg
 
 
 ## Semana 14
@@ -184,7 +184,8 @@ Podría llevar a diagnósticos prematuros o recomendaciones sesgadas (ej. asumir
 Este protocolo fuerza al bot a utilizar un razonamiento más lento y analítico (Sistema 2), aumentando la seguridad clínica.
 
 
-https://assets.grok.com/users/56f5a38d-e688-4de3-b9ed-01cc0ad2f299/generated/d2aee4ff-fb54-40e3-958d-a719308fe7fe/image.jpg
+<img width="1168" height="784" alt="imagen" src="https://github.com/user-attachments/assets/32897747-0168-42e0-8f76-099be91b8058" />
+
 
 
 ## Semana 15 - Prueba Lógica y Debugging (Dry Run)
@@ -209,4 +210,6 @@ El protocolo anti-sesgo funcionó correctamente al obligar al bot a considerar m
 
 **Versión Final:** Árbol de Decisión V2 aprobado.
 
-https://assets.grok.com/users/56f5a38d-e688-4de3-b9ed-01cc0ad2f299/generated/46f6be02-5dc0-48b4-bc43-61d0357f4e76/image.jpg
+
+<img width="1168" height="784" alt="imagen" src="https://github.com/user-attachments/assets/bd8f5245-a280-4221-bd8f-c0455180e8d3" />
+
