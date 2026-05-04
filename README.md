@@ -151,7 +151,7 @@ miro:
       - Lentes o productos → Consultar Catálogo de Productos.  
       - Protocolos → Consultar sección de Guías Clínicas.
 
-#Semana 14
+## Semana 14
 
 ## 5. Protocolo de Razonamiento y Ética
 
