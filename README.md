@@ -151,6 +151,7 @@ miro:
       - Lentes o productos → Consultar Catálogo de Productos.  
       - Protocolos → Consultar sección de Guías Clínicas.
 
+#Semana 14
 
 ## 5. Protocolo de Razonamiento y Ética
 
@@ -177,3 +178,25 @@ Podría llevar a diagnósticos prematuros o recomendaciones sesgadas (ej. asumir
 - Verificación obligatoria: Revisar historial de diabetes, edad del paciente, presencia de dolor de cabeza, cambios recientes en visión cercana, etc.
 
 Este protocolo fuerza al bot a utilizar un razonamiento más lento y analítico (Sistema 2), aumentando la seguridad clínica.
+
+## Semana 15 - Prueba Lógica y Debugging (Dry Run)
+
+### Caso de Prueba Real:
+**Paciente:** Mujer de 52 años dice: “Últimamente veo borroso para leer y a veces me duele la cabeza”.
+
+**Recorrido del Árbol de Decisión:**
+
+1. Consulta optométrica → Sí
+2. Requiere evaluación clínica → Sí
+3. ¿Suficiente información? → No (falta graduación anterior y antecedentes)
+   → Pregunta datos faltantes: edad, síntomas adicionales, enfermedades sistémicas.
+4. Usuario responde: 52 años, diabetes tipo 2, visión borrosa de cerca.
+5. Hipótesis inicial: Presbicia + posible retinopatía diabética
+6. Verificación Anti-Confirmación: Busca evidencias contradictorias → Encuentra posible componente de astigmatismo y fatiga visual.
+7. Respuesta final: Recomienda examen refractivo completo + control de retina por posible retinopatía + sugerencia de lentes progresivos.
+
+**Resultado del Dry Run:**  
+No se encontraron ramas sin salida ni callejones lógicos.  
+El protocolo anti-sesgo funcionó correctamente al obligar al bot a considerar múltiples posibilidades.
+
+**Versión Final:** Árbol de Decisión V2 aprobado.
