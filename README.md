@@ -152,3 +152,28 @@ miro:
       - Protocolos → Consultar sección de Guías Clínicas.
 
 
+## 5. Protocolo de Razonamiento y Ética
+
+### Sesgo Cognitivo Mitigado: Sesgo de Confirmación (Confirmation Bias)
+
+**Descripción del sesgo:**  
+Tendencia a buscar, interpretar o priorizar información que confirma nuestras creencias iniciales, ignorando evidencia que las contradice.
+
+**Riesgo en Mark-AI:**  
+Podría llevar a diagnósticos prematuros o recomendaciones sesgadas (ej. asumir rápidamente “solo es miopía” sin considerar otras patologías).
+
+### Contra-Medida Implementada:
+
+**Regla Anti-Confirmación:**
+
+1. Ante cualquier hipótesis inicial, Mark-AI **debe buscar activamente** al menos **dos evidencias** que puedan contradecir o limitar esa hipótesis.
+2. Siempre cruzar la información con al menos dos categorías diferentes de la Memoria a Largo Plazo (historial clínico + protocolos/guías clínicas).
+3. Si se encuentran datos contradictorios, deben ser mencionados de forma clara y neutral.
+4. Nunca emitir una conclusión clínica final sin haber realizado esta verificación activa.
+
+**Ejemplo aplicado:**
+- Usuario: “Veo borroso de lejos desde hace un mes”
+- Hipótesis inicial: Miopía progresiva
+- Verificación obligatoria: Revisar historial de diabetes, edad del paciente, presencia de dolor de cabeza, cambios recientes en visión cercana, etc.
+
+Este protocolo fuerza al bot a utilizar un razonamiento más lento y analítico (Sistema 2), aumentando la seguridad clínica.
